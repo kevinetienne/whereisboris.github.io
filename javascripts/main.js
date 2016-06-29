@@ -22,6 +22,6 @@ $(document).ready(function() {
         $('.confetti > p').html(result);
     }
 
-    $('html').on('click', handler);
-    $('html').on('tap', handler);
+    $(document).on('click', handler);
+    $(document).on('tap', handler);
 });
