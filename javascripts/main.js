@@ -23,4 +23,5 @@ $(document).ready(function() {
     }
 
     $('html').on('click', handler);
+    $('html').on('tap', handler);
 });
