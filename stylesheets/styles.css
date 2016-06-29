@@ -18,6 +18,10 @@ p {
   font-size: 70%;
 }
 
+a {
+  color: white;
+}
+
 .confetti {
   background-color: #490A3D;
   border: 5px solid #5a0d4c;
