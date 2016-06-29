@@ -11,12 +11,8 @@ body {
   margin: 0;
 }
 
-h1 {
+h1, p {
   font-size: 80%;
-}
-
-p {
-  font-size: 70%;
 }
 
 a {
