@@ -23,5 +23,5 @@ $(document).ready(function() {
     }
 
     $(document).on('click', handler);
-    $(document).on('tap', handler);
+    $(document).on('touchstart', handler);
 });
